@@ -1,2 +1,2 @@
-"# coffee-bean-classification" 
+"# coffee-bean-classification-peaberry" 
 "# coffee-bean-classification" 
